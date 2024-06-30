@@ -3,9 +3,14 @@
   "id": "edenring",
   "version": "${version}",
   "name": "Eden Ring Reforked",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "description": "Sci-Fi dimension mod with some unique things",
   "authors": [
-    "Me!"
+    "paulevs (code and art)",
+    "y3z0n (music and sounds)",
+    "Firel (Music)",
+    "Erzekawek (port & multiplatform dev)",
+    "ChristopherJ123 (port dev)",
+    "OpenBagTwo (port dev)"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",

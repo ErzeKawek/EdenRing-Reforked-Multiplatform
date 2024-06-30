@@ -6,10 +6,10 @@ license = "Insert License Here"
 [[mods]]
 modId = "edenring"
 version = "${version}"
-displayName = "Eden Ring Reforked"
-authors = "Me!"
+displayName = "Eden Ring Reforked (Multiplatorm Forge)"
+authors = "BetterX Fork Dev Team"
 description = '''
-This is an example description! Tell everyone what your mod is about!
+Sci-Fi dimension mod with some unique things!
 '''
 #logoFile = ""
 

@@ -17,14 +17,21 @@ This Is A Fork Of Paulevs Eden Ring Mod for Forge And Fabric 1.20.1
 * Mod .jar will be in ./build/libs
 
 ### Mod Request:
-* BCLib 3.0.14≥
-* Fabric API (Obviously)
-* Continuity (Optional)
+* Architectury API (Forge & Fabric)
 
-### BetterX Fork Crew:
+BCLib and WunderLib are Bundled inside The Mod.
+
+### BetterX Fork Devs:
 * ErzeKawek (Main Dev)
 * ChristopherJ123 (Dev)
 * Villhume (For Major Bugfixing)
+* OpenBagTwo (Dev)
+
+### Other Credits
+* Quiqueck (For BCLib and WunderLib)
+* paulevsGitch (Original Author)
+
+### Support Notes
 
   | Version | Status  |
     |---------|---------|

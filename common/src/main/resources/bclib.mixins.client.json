@@ -1,0 +1,23 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.betterx.bclib.mixin.client",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "AnvilScreenMixin",
+    "AtlasSetMixin",
+    "BlockMixin",
+    "ClientLevelMixin",
+    "ClientPacketListenerMixin",
+    "ClientRecipeBookMixin",
+    "FogRendererMixin",
+    "LevelRendererMixin",
+    "MinecraftMixin",
+    "ModelManagerMixin",
+    "WorldCreationUIStateMixin",
+    "boat.BoatRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

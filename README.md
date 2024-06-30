@@ -28,7 +28,7 @@ BCLib and WunderLib are Bundled inside The Mod.
 * OpenBagTwo (Dev)
 
 ### Other Credits
-* Quiqueck (For BCLib and WunderLib)
+* Quiqueck (For BCLib and WunderLib) **Now integrated inside jar**
 * paulevsGitch (Original Author)
 
 ### Support Notes

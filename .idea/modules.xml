@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/edenring.iml" filepath="$PROJECT_DIR$/.idea/modules/edenring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/edenring.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/edenring.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/edenring.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/edenring.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/edenring.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/edenring.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/edenring.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/edenring.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/edenring.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/edenring.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/edenring.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/edenring.forge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/edenring.forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/edenring.forge.test.iml" />
+    </modules>
+  </component>
+</project>
